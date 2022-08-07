@@ -1,4 +1,4 @@
-package com.eacoding.xenderclone
+::wqpackage com.eacoding.xenderclone
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
